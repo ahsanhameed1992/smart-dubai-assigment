@@ -1,0 +1,1232 @@
+[
+        {
+            "uri": "nyt://article/c0b61f00-cf65-5536-98d3-79fb9db7949f",
+            "url": "https://www.nytimes.com/2021/06/26/us/miami-building-collapse-investigation.html",
+            "id": 100000007836634,
+            "asset_id": 100000007836634,
+            "source": "New York Times",
+            "published_date": "2021-06-26",
+            "updated": "2021-07-03 11:59:38",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Surfside, Fla, Building Collapse (2021);Buildings (Structures);Building (Construction);Engineering and Engineers;Accidents and Safety;Concrete;Condominiums;Morabito, Frank P;Morabito Consultants;Surfside (Fla)",
+            "column": null,
+            "byline": "By Mike Baker, Anjali Singhvi and Patricia Mazzei",
+            "type": "Article",
+            "title": "Engineer Warned of ‘Major Structural Damage’ at Florida Condo Complex",
+            "abstract": "A consultant in 2018 urged the managers to repair cracked columns and crumbling concrete. The work was finally about to get underway when the building collapsed.",
+            "des_facet": [
+                "Surfside, Fla, Building Collapse (2021)",
+                "Buildings (Structures)",
+                "Building (Construction)",
+                "Engineering and Engineers",
+                "Accidents and Safety",
+                "Concrete",
+                "Condominiums"
+            ],
+            "org_facet": [
+                "Morabito Consultants"
+            ],
+            "per_facet": [
+                "Morabito, Frank P"
+            ],
+            "geo_facet": [
+                "Surfside (Fla)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A structural engineer detailed a range of problems at the Champlain Towers South complex, including poor waterproofing at the base of the building.",
+                    "copyright": "Gerald Herbert/Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/07/25/multimedia/25-miami-mystery-8/merlin_189906189_2afc50d2-000e-4386-8c39-d8dcb661f9ff-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/07/25/multimedia/25-miami-mystery-8/merlin_189906189_2afc50d2-000e-4386-8c39-d8dcb661f9ff-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/07/25/multimedia/25-miami-mystery-8/merlin_189906189_2afc50d2-000e-4386-8c39-d8dcb661f9ff-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/b7e23ef9-9053-5eb9-9d1d-5d0d2e5f5024",
+            "url": "https://www.nytimes.com/2021/06/27/us/miami-building-investigation-clues.html",
+            "id": 100000007836895,
+            "asset_id": 100000007836895,
+            "source": "New York Times",
+            "published_date": "2021-06-27",
+            "updated": "2021-07-03 11:38:43",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Surfside, Fla, Building Collapse (2021);Buildings (Structures);Engineering and Engineers;Building (Construction);Concrete;National Institute of Standards and Technology;Florida;Surfside (Fla)",
+            "column": null,
+            "byline": "By James Glanz, Anjali Singhvi and Mike Baker",
+            "type": "Article",
+            "title": "Possible Failure Point Emerges in Miami-Area Building Collapse",
+            "abstract": "Some engineers looking at the failure of a 13-story condo tower in Florida said the collapse appeared to have begun somewhere near the bottom of the building.",
+            "des_facet": [
+                "Surfside, Fla, Building Collapse (2021)",
+                "Buildings (Structures)",
+                "Engineering and Engineers",
+                "Building (Construction)",
+                "Concrete"
+            ],
+            "org_facet": [
+                "National Institute of Standards and Technology"
+            ],
+            "per_facet": [
+
+            ],
+            "geo_facet": [
+                "Florida",
+                "Surfside (Fla)"
+            ],
+            "media": [
+
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/2d62b0d9-d96f-5c10-87a0-360dcb37dcbd",
+            "url": "https://www.nytimes.com/2021/07/01/nyregion/allen-weisselberg-charged-trump-organization.html",
+            "id": 100000007838438,
+            "asset_id": 100000007838438,
+            "source": "New York Times",
+            "published_date": "2021-07-01",
+            "updated": "2021-07-02 10:24:00",
+            "section": "New York",
+            "subsection": "",
+            "nytdsection": "new york",
+            "adx_keywords": "Tax Evasion;United States Politics and Government;Trump, Donald J;Weisselberg, Allen;Trump Organization",
+            "column": null,
+            "byline": "By Ben Protess, William K. Rashbaum and Jonah E. Bromwich",
+            "type": "Article",
+            "title": "Trump Organization Is Charged With Running 15-Year Employee Tax Scheme",
+            "abstract": "The company was accused of helping its executives evade taxes on compensation by hiding luxury perks and bonuses.",
+            "des_facet": [
+                "Tax Evasion",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Trump Organization"
+            ],
+            "per_facet": [
+                "Trump, Donald J",
+                "Weisselberg, Allen"
+            ],
+            "geo_facet": [
+
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Allen Weisselberg, center, Thursday afternoon at the Lower Manhattan building that houses the criminal courts and the district attorney’s office.",
+                    "copyright": "Jefferson Siegel for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/07/01/nyregion/01nytrump-indictment12/01nytrump-indictment12-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/07/01/nyregion/01nytrump-indictment12/merlin_190213464_6cdeedae-9fb9-4ae3-9267-6fcda626c1c3-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/07/01/nyregion/01nytrump-indictment12/merlin_190213464_6cdeedae-9fb9-4ae3-9267-6fcda626c1c3-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/49bb1818-2931-514b-be81-29d592e2792d",
+            "url": "https://www.nytimes.com/2021/06/28/health/coronavirus-vaccines-immunity.html",
+            "id": 100000007836931,
+            "asset_id": 100000007836931,
+            "source": "New York Times",
+            "published_date": "2021-06-28",
+            "updated": "2021-06-30 10:29:59",
+            "section": "Health",
+            "subsection": "",
+            "nytdsection": "health",
+            "adx_keywords": "your-feed-science;Vaccination and Immunization;Coronavirus (2019-nCoV);Immune System;Lymph Nodes and Lymphatic System;Antibodies;Moderna Inc;Nature (Journal);Pfizer Inc;BioNTech SE",
+            "column": null,
+            "byline": "By Apoorva Mandavilli",
+            "type": "Article",
+            "title": "Pfizer and Moderna Vaccines Likely to Produce Lasting Immunity, Study Finds",
+            "abstract": "Immune cells are still organizing to fight the coronavirus months after inoculation, scientists reported.",
+            "des_facet": [
+                "your-feed-science",
+                "Vaccination and Immunization",
+                "Coronavirus (2019-nCoV)",
+                "Immune System",
+                "Lymph Nodes and Lymphatic System",
+                "Antibodies"
+            ],
+            "org_facet": [
+                "Moderna Inc",
+                "Nature (Journal)",
+                "Pfizer Inc",
+                "BioNTech SE"
+            ],
+            "per_facet": [
+
+            ],
+            "geo_facet": [
+
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A health care worker prepares to administer the Pfizer-BioNTech vaccine last month in Miami.",
+                    "copyright": "Saul Martinez for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/06/28/multimedia/28virus-immunity-02/28virus-immunity-02-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/06/28/multimedia/28virus-immunity-02/28virus-immunity-02-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/06/28/multimedia/28virus-immunity-02/28virus-immunity-02-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/608d022b-08bb-58fb-a792-e40140c5c75e",
+            "url": "https://www.nytimes.com/2021/07/01/sports/olympics/shacarri-richardson-suspended-marijuana.html",
+            "id": 100000007846960,
+            "asset_id": 100000007846960,
+            "source": "New York Times",
+            "published_date": "2021-07-01",
+            "updated": "2021-07-03 11:06:05",
+            "section": "Sports",
+            "subsection": "Olympics",
+            "nytdsection": "sports",
+            "adx_keywords": "Track and Field;Olympic Games (2020);Marijuana;Richardson, Sha'Carri;Fraser-Pryce, Shelly-Ann;USA Track and Field",
+            "column": null,
+            "byline": "By Kevin Draper and Juliet Macur",
+            "type": "Article",
+            "title": "Sha’Carri Richardson, a Track Sensation, Tests Positive for Marijuana",
+            "abstract": "Richardson, a gold-medal favorite in the women’s 100 meters, was suspended for a month, putting in doubt an appearance at the Tokyo Olympics.",
+            "des_facet": [
+                "Track and Field",
+                "Olympic Games (2020)",
+                "Marijuana"
+            ],
+            "org_facet": [
+                "USA Track and Field"
+            ],
+            "per_facet": [
+                "Richardson, Sha'Carri",
+                "Fraser-Pryce, Shelly-Ann"
+            ],
+            "geo_facet": [
+
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Sha’Carri Richardson at the U.S. Olympic trials last month in Eugene, Ore.",
+                    "copyright": "Chang W. Lee/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/07/01/sports/00oly-richardson-doping/00oly-richardson-doping-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/07/01/sports/00oly-richardson-doping/merlin_189515211_a488d264-e3d8-4758-8086-52be6f8486c2-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/07/01/sports/00oly-richardson-doping/merlin_189515211_a488d264-e3d8-4758-8086-52be6f8486c2-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/d8147ba7-150a-5116-8cb1-e7a9b275c481",
+            "url": "https://www.nytimes.com/2021/06/27/nyregion/new-jersey-valedictorian-lgbtq-speech.html",
+            "id": 100000007836858,
+            "asset_id": 100000007836858,
+            "source": "New York Times",
+            "published_date": "2021-06-27",
+            "updated": "2021-06-28 13:16:27",
+            "section": "New York",
+            "subsection": "",
+            "nytdsection": "new york",
+            "adx_keywords": "Education (K-12);Principals (School);Discrimination;Homosexuality and Bisexuality;Mental Health and Disorders;Censorship;Commencement Speeches;Dershem, Bryce;Tull, Robert M;Eastern Regional High School (Voorhees Township, NJ);Voorhees Township (NJ)",
+            "column": null,
+            "byline": "By Alyssa Lukpat",
+            "type": "Article",
+            "title": "When a Valedictorian Spoke of His Queer Identity, the Principal Cut Off His Speech",
+            "abstract": "The principal also took away the valedictorian’s prepared remarks, so the student recited the speech from memory.",
+            "des_facet": [
+                "Education (K-12)",
+                "Principals (School)",
+                "Discrimination",
+                "Homosexuality and Bisexuality",
+                "Mental Health and Disorders",
+                "Censorship",
+                "Commencement Speeches"
+            ],
+            "org_facet": [
+                "Eastern Regional High School (Voorhees Township, NJ)"
+            ],
+            "per_facet": [
+                "Dershem, Bryce",
+                "Tull, Robert M"
+            ],
+            "geo_facet": [
+                "Voorhees Township (NJ)"
+            ],
+            "media": [
+
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/bf79f528-6600-5b33-8b3e-bcf1a66f9ca6",
+            "url": "https://www.nytimes.com/2021/06/30/arts/television/bill-cosby-release-conviction.html",
+            "id": 100000007843402,
+            "asset_id": 100000007843402,
+            "source": "New York Times",
+            "published_date": "2021-06-30",
+            "updated": "2021-07-02 09:20:56",
+            "section": "Arts",
+            "subsection": "Television",
+            "nytdsection": "arts",
+            "adx_keywords": "Decisions and Verdicts;#MeToo Movement;Sex Crimes;Cosby, Bill;Constand, Andrea",
+            "column": null,
+            "byline": "By Graham Bowley and Julia Jacobs",
+            "type": "Article",
+            "title": "Bill Cosby Freed as Court Overturns His Sex Assault Conviction",
+            "abstract": "The entertainer had been serving a three- to 10-year sentence in a prison outside Philadelphia.",
+            "des_facet": [
+                "Decisions and Verdicts",
+                "#MeToo Movement",
+                "Sex Crimes"
+            ],
+            "org_facet": [
+
+            ],
+            "per_facet": [
+                "Cosby, Bill",
+                "Constand, Andrea"
+            ],
+            "geo_facet": [
+
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Bill Cosby in 2018, departing the courthouse after he was found guilty in a sexual assault trial.",
+                    "copyright": "Matt Slocum/Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/06/30/arts/30cosby-1/30cosby-1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/06/30/arts/30cosby-1/merlin_190155567_3c38a937-aa3e-4ae3-b322-8b2cbf97061e-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/06/30/arts/30cosby-1/merlin_190155567_3c38a937-aa3e-4ae3-b322-8b2cbf97061e-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/9aecdf12-91c4-5215-9fa9-2d214b6b0620",
+            "url": "https://www.nytimes.com/2021/06/30/nyregion/trump-organization-cfo-allen-weisselberg.html",
+            "id": 100000007838731,
+            "asset_id": 100000007838731,
+            "source": "New York Times",
+            "published_date": "2021-06-30",
+            "updated": "2021-07-01 19:29:55",
+            "section": "New York",
+            "subsection": "",
+            "nytdsection": "new york",
+            "adx_keywords": "United States Politics and Government;Accounting and Accountants;Real Estate and Housing (Residential);Corporate Taxes;Frauds and Swindling;Content Type: Personal Profile;Weisselberg, Allen;James, Letitia;Trump, Donald J;Vance, Cyrus R Jr;Trump Organization;New York City",
+            "column": null,
+            "byline": "By Michael Rothfeld, Jonah E. Bromwich and Ben Protess",
+            "type": "Article",
+            "title": "Weisselberg, ‘Soldier’ for Trump, Faces Charges and Test of His Loyalty",
+            "abstract": "The Trump Organization executive is coming under increasing pressure to turn on the family.",
+            "des_facet": [
+                "United States Politics and Government",
+                "Accounting and Accountants",
+                "Real Estate and Housing (Residential)",
+                "Corporate Taxes",
+                "Frauds and Swindling",
+                "Content Type: Personal Profile"
+            ],
+            "org_facet": [
+                "Trump Organization"
+            ],
+            "per_facet": [
+                "Weisselberg, Allen",
+                "James, Letitia",
+                "Trump, Donald J",
+                "Vance, Cyrus R Jr"
+            ],
+            "geo_facet": [
+                "New York City"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Allen H. Weisselberg, right, has been a loyal Trump employee for decades. “Allen was good at doing what Donald wanted him to do,” said a former Trump Organization executive.",
+                    "copyright": "Carlo Allegri/Reuters",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/07/01/nyregion/01weisselberg-profile/01weisselberg-profile-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/07/01/nyregion/01weisselberg-profile/01weisselberg-profile-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/07/01/nyregion/01weisselberg-profile/01weisselberg-profile-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/fba1f182-ebf8-5319-ae75-277c67cf0118",
+            "url": "https://www.nytimes.com/2021/07/01/sports/olympics/abortion-doping-olympics-mcneal.html",
+            "id": 100000007839376,
+            "asset_id": 100000007839376,
+            "source": "New York Times",
+            "published_date": "2021-07-01",
+            "updated": "2021-07-03 13:31:36",
+            "section": "Sports",
+            "subsection": "Olympics",
+            "nytdsection": "sports",
+            "adx_keywords": "Track and Field;Tests (Drug Use);Doping (Sports);Olympic Games (2020);Fines (Penalties);McNeal, Brianna (1991- );World Athletics",
+            "column": null,
+            "byline": "By Juliet Macur",
+            "type": "Article",
+            "title": "An Abortion, a Missed Drug Test and Altered Records Add Up to Trouble",
+            "abstract": "Brianna McNeal said she didn’t open her door to antidoping officials because she was traumatized after having an abortion. On Friday, a court upheld her five-year suspension.",
+            "des_facet": [
+                "Track and Field",
+                "Tests (Drug Use)",
+                "Doping (Sports)",
+                "Olympic Games (2020)",
+                "Fines (Penalties)"
+            ],
+            "org_facet": [
+                "World Athletics"
+            ],
+            "per_facet": [
+                "McNeal, Brianna (1991- )"
+            ],
+            "geo_facet": [
+
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Brianna McNeal, right, competing at the U.S. Olympic track and field trials last month in Eugene, Ore.",
+                    "copyright": "Andy Lyons/Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/07/03/sports/02doping-mcneal-print/merlin_189573321_171a2444-4e73-459d-9a7f-93aaa158fbc5-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/07/03/sports/02doping-mcneal-print/merlin_189573321_171a2444-4e73-459d-9a7f-93aaa158fbc5-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/07/03/sports/02doping-mcneal-print/merlin_189573321_171a2444-4e73-459d-9a7f-93aaa158fbc5-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/b72522d6-0d37-530f-a52d-398eceeedc09",
+            "url": "https://www.nytimes.com/2021/06/29/travel/us-canada-travel-ban.html",
+            "id": 100000007840573,
+            "asset_id": 100000007840573,
+            "source": "New York Times",
+            "published_date": "2021-06-29",
+            "updated": "2021-06-30 16:09:42",
+            "section": "Travel",
+            "subsection": "",
+            "nytdsection": "travel",
+            "adx_keywords": "Politics and Government;Travel and Vacations;Vaccination and Immunization;Coronavirus (2019-nCoV);Travel Warnings;Content Type: Service;Canada;United States",
+            "column": null,
+            "byline": "By Elaine Glusac",
+            "type": "Article",
+            "title": "Why Can’t Americans Go to Canada?",
+            "abstract": "Many travelers are wondering why they still can’t visit their neighbor to the north. Here’s why the border remains closed.",
+            "des_facet": [
+                "Politics and Government",
+                "Travel and Vacations",
+                "Vaccination and Immunization",
+                "Coronavirus (2019-nCoV)",
+                "Travel Warnings",
+                "Content Type: Service"
+            ],
+            "org_facet": [
+
+            ],
+            "per_facet": [
+
+            ],
+            "geo_facet": [
+                "Canada",
+                "United States"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Border signs above the Peace Bridge last summer. The bridge crosses the Niagara River between Canada and the United States; leisure travelers have not been able to enter Canada since last March.",
+                    "copyright": "Brendan Mcdermid/Reuters",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/06/29/travel/00Canada-explainer/00Canada-explainer-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/06/29/travel/00Canada-explainer/merlin_188953461_ca577338-458d-4201-8f9a-5294dc350432-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/06/29/travel/00Canada-explainer/merlin_188953461_ca577338-458d-4201-8f9a-5294dc350432-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/d48d0c18-50ff-5c85-9cc8-b41b459cb906",
+            "url": "https://www.nytimes.com/2021/06/30/us/jan-6-capitol-attack-takeaways.html",
+            "id": 100000007830491,
+            "asset_id": 100000007830491,
+            "source": "New York Times",
+            "published_date": "2021-06-30",
+            "updated": "2021-06-30 17:19:49",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "your-feed-visual-investigations;Storming of the US Capitol (Jan, 2021);United States Capitol Police;Oath Keepers;Proud Boys",
+            "column": null,
+            "byline": "By The New York Times",
+            "type": "Article",
+            "title": "Inside the Capitol Riot: An Exclusive Video Investigation",
+            "abstract": "The Times analyzed thousands of videos from the Jan. 6 attack on the U.S. Capitol Building to understand how it happened — and why. Here are some of the key findings.",
+            "des_facet": [
+                "your-feed-visual-investigations",
+                "Storming of the US Capitol (Jan, 2021)"
+            ],
+            "org_facet": [
+                "United States Capitol Police",
+                "Oath Keepers",
+                "Proud Boys"
+            ],
+            "per_facet": [
+
+            ],
+            "geo_facet": [
+
+            ],
+            "media": [
+
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/ce5f35d7-e5aa-5c00-91db-b8908bddef05",
+            "url": "https://www.nytimes.com/2021/06/29/health/coronavirus-delta-variant-masks.html",
+            "id": 100000007840649,
+            "asset_id": 100000007840649,
+            "source": "New York Times",
+            "published_date": "2021-06-29",
+            "updated": "2021-07-01 09:16:43",
+            "section": "Health",
+            "subsection": "",
+            "nytdsection": "health",
+            "adx_keywords": "your-feed-science;Coronavirus Reopenings;Coronavirus Risks and Safety Concerns;Vaccination and Immunization;Disease Rates;Masks;Coronavirus (2019-nCoV);Content Type: Service;World Health Organization;Los Angeles County (Calif);United States",
+            "column": null,
+            "byline": "By Roni Caryn Rabin, Apoorva Mandavilli and Shawn Hubler",
+            "type": "Article",
+            "title": "Masks Again? Delta Variant’s Spread Prompts Reconsideration of Precautions.",
+            "abstract": "Los Angeles County and the W.H.O. warned that even immunized people should wear masks indoors. Some scientists agreed, but urged a localized approach.",
+            "des_facet": [
+                "your-feed-science",
+                "Coronavirus Reopenings",
+                "Coronavirus Risks and Safety Concerns",
+                "Vaccination and Immunization",
+                "Disease Rates",
+                "Masks",
+                "Coronavirus (2019-nCoV)",
+                "Content Type: Service"
+            ],
+            "org_facet": [
+                "World Health Organization"
+            ],
+            "per_facet": [
+
+            ],
+            "geo_facet": [
+                "Los Angeles County (Calif)",
+                "United States"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vaccinations at the arrivals concourse of Miami International Airport earlier this month.",
+                    "copyright": "Saul Martinez for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/06/29/science/2VIRUS-DELTA1/2VIRUS-DELTA1-thumbStandard-v3.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/06/29/science/2VIRUS-DELTA1/2VIRUS-DELTA1-mediumThreeByTwo210-v3.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/06/29/science/2VIRUS-DELTA1/2VIRUS-DELTA1-mediumThreeByTwo440-v3.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/2eca6111-1984-5b59-b592-fdf8dec423de",
+            "url": "https://www.nytimes.com/2021/06/25/opinion/coronavirus-lab.html",
+            "id": 100000007826488,
+            "asset_id": 100000007826488,
+            "source": "New York Times",
+            "published_date": "2021-06-25",
+            "updated": "2021-06-26 22:09:47",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Coronavirus (2019-nCoV);Laboratories and Scientific Equipment;SARS (Severe Acute Respiratory Syndrome);Genetic Engineering;Research;Bats;Wildlife Trade and Poaching;Coronavirus Risks and Safety Concerns;Shi Zhengli;Daszak, Peter;Wuhan Institute of Virology (China);China;Wuhan (China)",
+            "column": null,
+            "byline": "By Zeynep Tufekci",
+            "type": "Article",
+            "title": "Where Did the Coronavirus Come From? What We Already Know Is Troubling.",
+            "abstract": "Even if the coronavirus did not emerge from a lab, the groundwork for a potential disaster had been laid for years, and learning its lessons is essential to preventing others.",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Laboratories and Scientific Equipment",
+                "SARS (Severe Acute Respiratory Syndrome)",
+                "Genetic Engineering",
+                "Research",
+                "Bats",
+                "Wildlife Trade and Poaching",
+                "Coronavirus Risks and Safety Concerns"
+            ],
+            "org_facet": [
+                "Wuhan Institute of Virology (China)"
+            ],
+            "per_facet": [
+                "Shi Zhengli",
+                "Daszak, Peter"
+            ],
+            "geo_facet": [
+                "China",
+                "Wuhan (China)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Antoine d'Agata/Magnum Photos",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/06/25/opinion/25tufeckiSub/25tufeckiSub-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/06/25/opinion/25tufeckiSub/25tufeckiSub-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/06/25/opinion/25tufeckiSub/25tufeckiSub-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/e7f5609a-01e7-59ef-ba7a-cb69d9ca4e3a",
+            "url": "https://www.nytimes.com/2021/06/29/nyregion/adams-garcia-wiley-mayor-ranked-choice.html",
+            "id": 100000007840634,
+            "asset_id": 100000007840634,
+            "source": "New York Times",
+            "published_date": "2021-06-29",
+            "updated": "2021-07-02 22:14:45",
+            "section": "New York",
+            "subsection": "",
+            "nytdsection": "new york",
+            "adx_keywords": "Elections, Mayors;Ranked-Choice Voting;Adams, Eric L;Garcia, Kathryn;Wiley, Maya;New York City",
+            "column": null,
+            "byline": "By Katie Glueck",
+            "type": "Article",
+            "title": "New York Mayor’s Race in Chaos After Elections Board Counts 135,000 Test Ballots",
+            "abstract": "The extraordinary sequence of events threw the closely watched Democratic primary contest into a new period of uncertainty and seeded further confusion about the outcome.",
+            "des_facet": [
+                "Elections, Mayors",
+                "Ranked-Choice Voting"
+            ],
+            "org_facet": [
+
+            ],
+            "per_facet": [
+                "Adams, Eric L",
+                "Garcia, Kathryn",
+                "Wiley, Maya"
+            ],
+            "geo_facet": [
+                "New York City"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A new vote tally released by the Board of Elections suggested that Eric Adams’s lead in the mayoral primary had winnowed; the results were later taken down.",
+                    "copyright": "James Estrin/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/06/29/nyregion/29nymayor-rcv-1/merlin_189823446_9e5b64eb-345a-4429-b618-8e9135b1c25d-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/06/29/nyregion/29nymayor-rcv-1/merlin_189823446_9e5b64eb-345a-4429-b618-8e9135b1c25d-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/06/29/nyregion/29nymayor-rcv-1/merlin_189823446_9e5b64eb-345a-4429-b618-8e9135b1c25d-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/35c21dd3-e19f-5cc9-ba6f-ad842e85920e",
+            "url": "https://www.nytimes.com/2021/07/01/business/joe-rogan.html",
+            "id": 100000007835409,
+            "asset_id": 100000007835409,
+            "source": "New York Times",
+            "published_date": "2021-07-01",
+            "updated": "2021-07-02 23:28:36",
+            "section": "Business",
+            "subsection": "",
+            "nytdsection": "business",
+            "adx_keywords": "Comedy and Humor;Content Type: Personal Profile;Podcasts;Rogan, Joe",
+            "column": null,
+            "byline": "By Matt Flegenheimer",
+            "type": "Article",
+            "title": "Joe Rogan Is Too Big to Cancel",
+            "abstract": "He’s now one of the most consumed media products on the planet. His Spotify deal, estimated at $100 million, speaks to the allure of making audiences feel they’re in on something subversive.",
+            "des_facet": [
+                "Comedy and Humor",
+                "Content Type: Personal Profile",
+                "Podcasts"
+            ],
+            "org_facet": [
+
+            ],
+            "per_facet": [
+                "Rogan, Joe"
+            ],
+            "geo_facet": [
+
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mr. Rogan’s show is now exclusive to Spotify.",
+                    "copyright": "Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/07/01/business/01Rogan-03/01Rogan-03-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/07/01/business/01Rogan-03/01Rogan-03-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/07/01/business/01Rogan-03/01Rogan-03-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/56530668-e4d8-5cae-959b-5abc781b3e85",
+            "url": "https://www.nytimes.com/2021/06/25/science/dragon-man-skull-china.html",
+            "id": 100000007829525,
+            "asset_id": 100000007829525,
+            "source": "New York Times",
+            "published_date": "2021-06-25",
+            "updated": "2021-06-28 02:15:14",
+            "section": "Science",
+            "subsection": "",
+            "nytdsection": "science",
+            "adx_keywords": "Archaeology and Anthropology;Paleontology;Fossils;Skull (Body Part);Evolution (Biology);Denisova Hominid;Neanderthal Man;Research;China;Harbin (China)",
+            "column": null,
+            "byline": "By Carl Zimmer",
+            "type": "Article",
+            "title": "Discovery of ‘Dragon Man’ Skull in China May Add Species to Human Family Tree",
+            "abstract": "A laborer discovered the fossil and hid it in a well for 85 years. Scientists say it could help sort out the human family tree and how our species emerged.",
+            "des_facet": [
+                "Archaeology and Anthropology",
+                "Paleontology",
+                "Fossils",
+                "Skull (Body Part)",
+                "Evolution (Biology)",
+                "Denisova Hominid",
+                "Neanderthal Man",
+                "Research"
+            ],
+            "org_facet": [
+
+            ],
+            "per_facet": [
+
+            ],
+            "geo_facet": [
+                "China",
+                "Harbin (China)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A virtual reconstruction of the Harbin cranium",
+                    "copyright": "Xijun Ni",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/06/25/science/25dragonman-promo/25dragonman-promo-thumbStandard.png",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/06/25/science/25dragonman-promo/25dragonman-promo-mediumThreeByTwo210.png",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/06/25/science/25dragonman-promo/25dragonman-promo-mediumThreeByTwo440.png",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/7907a119-c5ad-55d7-8790-a0d7201be462",
+            "url": "https://www.nytimes.com/2021/06/26/health/covid-vaccine-teens-consent.html",
+            "id": 100000007821477,
+            "asset_id": 100000007821477,
+            "source": "New York Times",
+            "published_date": "2021-06-26",
+            "updated": "2021-06-27 20:48:30",
+            "section": "Health",
+            "subsection": "",
+            "nytdsection": "health",
+            "adx_keywords": "your-feed-science;Children and Childhood;Teenagers and Adolescence;Coronavirus (2019-nCoV);Vaccination and Immunization;Parenting;your-feed-healthcare;States (US);United States",
+            "column": null,
+            "byline": "By Jan Hoffman",
+            "type": "Article",
+            "title": "As Parents Forbid Covid Shots, Defiant Teenagers Seek Ways to Get Them",
+            "abstract": "Most medical consent laws require parental permission for minors to get a vaccine. Now some places are easing restrictions for Covid shots while others are proposing new ones.",
+            "des_facet": [
+                "your-feed-science",
+                "Children and Childhood",
+                "Teenagers and Adolescence",
+                "Coronavirus (2019-nCoV)",
+                "Vaccination and Immunization",
+                "Parenting",
+                "your-feed-healthcare",
+                "States (US)"
+            ],
+            "org_facet": [
+
+            ],
+            "per_facet": [
+
+            ],
+            "geo_facet": [
+                "United States"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "When the mother of this Florida teenager blocked her from getting the Covid vaccine, the 15-year-old was uninvited to a friend’s party and continues to feel excluded from many social events because she remains unvaccinated.",
+                    "copyright": "Maria Alejandra Cardona for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/06/25/science/00virus-vax-teens1/00virus-vax-teens1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/06/25/science/00virus-vax-teens1/merlin_189648114_56e624d1-de8b-4479-b955-68eddfcd7a06-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/06/25/science/00virus-vax-teens1/merlin_189648114_56e624d1-de8b-4479-b955-68eddfcd7a06-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/dce873b7-45ad-5b10-8689-53304aa10aa5",
+            "url": "https://www.nytimes.com/2021/06/25/us/politics/trump-insurrection-act-protests.html",
+            "id": 100000007831745,
+            "asset_id": 100000007831745,
+            "source": "New York Times",
+            "published_date": "2021-06-25",
+            "updated": "2021-06-26 14:15:11",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "George Floyd Protests (2020);Demonstrations, Protests and Riots;United States Politics and Government;United States Defense and Military Forces;Trump, Donald J;Milley, Mark A;Esper, Mark T;Barr, William P;Defense Department",
+            "column": null,
+            "byline": "By Michael S. Schmidt and Maggie Haberman",
+            "type": "Article",
+            "title": "Trump Aides Prepared Insurrection Act Order During Debate Over Protests",
+            "abstract": "President Donald Trump never invoked the act, but fresh details underscore the intensity of his interest last June in using active-duty military to curb unrest.",
+            "des_facet": [
+                "George Floyd Protests (2020)",
+                "Demonstrations, Protests and Riots",
+                "United States Politics and Government",
+                "United States Defense and Military Forces"
+            ],
+            "org_facet": [
+                "Defense Department"
+            ],
+            "per_facet": [
+                "Trump, Donald J",
+                "Milley, Mark A",
+                "Esper, Mark T",
+                "Barr, William P"
+            ],
+            "geo_facet": [
+
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Donald J. Trump’s actions on June 1, 2020, when he walked across Lafayette Park after it was cleared of protesters, were a pivotal moment in his presidency.",
+                    "copyright": "Doug Mills/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/06/25/us/politics/25dc-trump-insurrection1/25dc-trump-insurrection1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/06/25/us/politics/25dc-trump-insurrection1/25dc-trump-insurrection1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/06/25/us/politics/25dc-trump-insurrection1/25dc-trump-insurrection1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/b7a189d3-1426-5e60-b262-68d406e83daa",
+            "url": "https://www.nytimes.com/2021/07/01/us/politics/supreme-court-arizona-voting-restrictions.html",
+            "id": 100000007765324,
+            "asset_id": 100000007765324,
+            "source": "New York Times",
+            "published_date": "2021-07-01",
+            "updated": "2021-07-02 22:21:21",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Decisions and Verdicts;Voting Rights Act (1965);Voter Registration and Requirements;Voter Fraud (Election Fraud);Minorities;Discrimination;United States Politics and Government;State Legislatures;Alito, Samuel A Jr;Kagan, Elena;Supreme Court (US);Arizona",
+            "column": null,
+            "byline": "By Adam Liptak",
+            "type": "Article",
+            "title": "Supreme Court Upholds Arizona Voting Restrictions",
+            "abstract": "The decision, a test of what remains of the Voting Rights Act, suggests that challenges to many new measures making it harder to vote may not be successful.",
+            "des_facet": [
+                "Decisions and Verdicts",
+                "Voting Rights Act (1965)",
+                "Voter Registration and Requirements",
+                "Voter Fraud (Election Fraud)",
+                "Minorities",
+                "Discrimination",
+                "United States Politics and Government",
+                "State Legislatures"
+            ],
+            "org_facet": [
+                "Supreme Court (US)"
+            ],
+            "per_facet": [
+                "Alito, Samuel A Jr",
+                "Kagan, Elena"
+            ],
+            "geo_facet": [
+                "Arizona"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A polling place in Phoenix in October. The Supreme Court ruled in a case concerning two kinds of voting restrictions in Arizona.",
+                    "copyright": "Adriana Zehbrauskas for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/06/25/us/politics/00dc-scotus-voting/00dc-scotus-voting-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/06/25/us/politics/00dc-scotus-voting/00dc-scotus-voting-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/06/25/us/politics/00dc-scotus-voting/00dc-scotus-voting-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/fcabe343-d083-5364-b6cc-ab52f818b820",
+            "url": "https://www.nytimes.com/2021/06/29/world/asia/north-korea-kim-jong-un-weight.html",
+            "id": 100000007840199,
+            "asset_id": 100000007840199,
+            "source": "New York Times",
+            "published_date": "2021-06-29",
+            "updated": "2021-07-01 09:19:00",
+            "section": "World",
+            "subsection": "Asia Pacific",
+            "nytdsection": "world",
+            "adx_keywords": "Rumors and Misinformation;Weight;Politics and Government;Kim Jong-un;North Korea",
+            "column": null,
+            "byline": "By Choe Sang-Hun",
+            "type": "Article",
+            "title": "Kim Jong-un Lost Weight. No One Knows How or Why.",
+            "abstract": "North Koreans say they were “heartbroken” when they saw Kim Jong-un looking “emaciated.” The regime has turned the weight loss into a propaganda victory.",
+            "des_facet": [
+                "Rumors and Misinformation",
+                "Weight",
+                "Politics and Government"
+            ],
+            "org_facet": [
+
+            ],
+            "per_facet": [
+                "Kim Jong-un"
+            ],
+            "geo_facet": [
+                "North Korea"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kim Jong-un during a Workers’ Party meeting in Pyongyang earlier this month. Analysts noticed that Mr. Kim, 37, has looked considerably thinner in recent weeks.",
+                    "copyright": "Korean Central News Agency/Korea News Service, via Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/06/29/world/29nkorea-1/29nkorea-1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/06/29/world/29nkorea-1/29nkorea-1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/06/29/world/29nkorea-1/29nkorea-1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        }
+    ]
